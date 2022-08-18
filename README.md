@@ -4,15 +4,15 @@
   
 ### Привет я Архип ✨ 	:man_technologist:, 
 
-> <p > React + React Native developer из :russia: . <br />
+> <p > React + React Native developer из :ru: . <br />
 > Всегда стремлюсь изучать новые технологии :computer: и разрабатывать новые проекты. </p>
   
   ## Темы
-  - [Cтек технологий](#technologies)
+  - [Cтек технологий](#stack-technologies)
   - [Статы гита](#my-github-stats)
-  - [:stopwatch: ВАКАТАЙМ](#wakatime-stats)
+  - [:stopwatch: ВАКАТАЙМ](#wakatime)
 
-### Стек
+### Stack technologies
 - - - -
  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -61,7 +61,7 @@
   </p>
 </details>
 
-## Вакатайм статы
+## WakaTime
  Что редачу
 <details>
   <summary> 
