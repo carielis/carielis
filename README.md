@@ -68,7 +68,7 @@
     Клик сюда
   </summary>
   <p>
-    <img src="https://wakatime.com/share/@ba532ab8-c73c-45b8-8cb7-2225a86536b0/3f3eb009-18fa-4de0-a87e-99aa64d47da1.png" height="400" width="600">
+    <img src="https://wakatime.com/share/@ba532ab8-c73c-45b8-8cb7-2225a86536b0/090f9130-5c74-49da-b626-d30e1f1c0c20.png" height="400" width="600">
   </p>
 </details>
 
