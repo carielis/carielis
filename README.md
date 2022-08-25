@@ -10,7 +10,7 @@
   ## Темы
   - [Cтек технологий](#stack-technologies)
   - [Статы гита](#my-github-stats)
-  - [:stopwatch: ВАКАТАЙМ](#wakatime)
+
 
 ### Stack technologies
 - - - -
@@ -59,18 +59,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=carielis&theme=algolia&column=4">
   </p>
 </details>
-
-## WakaTime
- Что редачу
-<details>
-  <summary> 
-    Клик сюда
-  </summary>
-  <p>
-    <img src="https://wakatime.com/share/@ba532ab8-c73c-45b8-8cb7-2225a86536b0/090f9130-5c74-49da-b626-d30e1f1c0c20.png" height="400" width="600">
-  </p>
-</details>
-
  - - - - 
  <p  align="right">
   <a href="#top">Вверх</a>
