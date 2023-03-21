@@ -11,9 +11,10 @@
   - [Cтек технологий](#stack-technologies)
   - [Статы гита](#my-github-stats)
 
-  > -- Test
-  > -- Test 1
-  > -- Test 2
+
+  > - Проводник
+    - Полупроводник
+    - Диэлектрик
 
 ### Stack technologies
 - - - -
