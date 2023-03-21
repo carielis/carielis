@@ -11,9 +11,9 @@
   - [Cтек технологий](#stack-technologies)
   - [Статы гита](#my-github-stats)
 
- -- Test
-  -- Test 1
-  -- Test 2
+  «>» -- Test
+  «>» -- Test 1
+  «>» -- Test 2
 
 ### Stack technologies
 - - - -
