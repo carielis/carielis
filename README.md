@@ -12,10 +12,6 @@
   - [Статы гита](#my-github-stats)
 
 
-  > - Проводник
-    - Полупроводник
-    - Диэлектрик
-
 ### Stack technologies
 - - - -
  <p align="center">
