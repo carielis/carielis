@@ -1,65 +1,105 @@
-<body id="top">
+<a id="top"></a>
 
-### Привет, я Архип ✨ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=170&section=header&text=Arkhip%20%7C%20Frontend%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 
-> <p>⚛️ React + React Native developer из :ru:<br />
-> 🛠️ Создаю сложные интерфейсы: редакторы документов, диаграммы, виртуализированные таблицы<br />
-> 🏗️ Мыслю в Feature Sliced Design<br />
-> 🚀 Всегда стремлюсь изучать новые технологии :computer: и разрабатывать новые проекты</p>
+<h1 align="center">Привет, я Архип</h1>
 
-## Темы
-- [Стек технологий](#stack-technologies)
-- [Статы гита](#my-github-stats)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=React+%2F+React+Native+developer;Complex+UI%3A+editors%2C+diagrams%2C+virtualized+tables;Feature+Sliced+Design+mindset;TypeScript-first+frontend+engineering" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/carielis">
+    <img src="https://img.shields.io/badge/GitHub-carielis-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=carielis&style=for-the-badge&color=00C9FF" />
+</p>
 
-### Stack technologies
-- - - -
- <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React Native-35444E?style=for-the-badge&logo=react&logoColor=4FC08D" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
- </p>
+---
 
+## Обо мне
 
-### My Github Stats
-- - - -
+Я React и React Native разработчик, который специализируется на сложных пользовательских интерфейсах.
 
-[![Архип's GitHub stats](https://github-readme-stats.vercel.app/api?username=carielis&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/carielis)
+Работал с редакторами документов, диаграммами, виртуализированными таблицами и интерфейсами, где важны производительность, предсказуемость состояния и удобство поддержки. Люблю архитектуру, в которой команда может быстро добавлять фичи без постоянного переписывания старого кода.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carielis&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/carielis)
+- Проектирую фронтенд вокруг понятных доменных границ
+- Использую Feature Sliced Design как основу для масштабируемой структуры
+- Пишу на TypeScript и предпочитаю явные контракты между слоями
+- Интересуюсь инструментами, которые ускоряют разработку без потери качества
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=carielis&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Архип's streak" /></p>
+---
 
-## Github инфа
+## Навигация
+
+- [Стек](#стек)
+- [GitHub статистика](#github-статистика)
+- [Активность](#активность)
+- [Дополнительно](#дополнительно)
+
+---
+
+## Стек
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nestjs,graphql,docker,jest,cypress,figma,git,gitlab,npm,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Feature_Sliced_Design-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+## GitHub статистика
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carielis&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carielis&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carielis&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+## Активность
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carielis&theme=vue&hide_border=true&area=true" />
+</p>
+
+---
+
+## Дополнительно
+
 <details>
-  <summary>
-    Клик сюда
-  </summary>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=carielis&theme=algolia&column=4">
+  <summary>GitHub trophies</summary>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=carielis&theme=algolia&column=4&margin-w=12&margin-h=12" />
   </p>
 </details>
- - - - -
- <p align="right">
-  <a href="#top">Вверх</a>
- </p>
 
-</body>
+<details>
+  <summary>Что мне интересно</summary>
+
+  - Производительные интерфейсы на React
+  - Архитектура больших frontend-приложений
+  - Документные редакторы и rich-text сценарии
+  - Диаграммы, таблицы и сложные визуальные инструменты
+  - Developer experience и автоматизация рутины
+
+</details>
+
+---
+
+<p align="right">
+  <a href="#top">Наверх</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
